@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/warehouse_ros_sqlite-release
 tracks:
   foxy:
     actions:
